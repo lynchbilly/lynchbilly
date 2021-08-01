@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lynchbilly
-- 👀 I’m interested in Programming and Electronis
+- 👀 I’m interested in Programming and Electronics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me lynchbilly09@gmail.com
